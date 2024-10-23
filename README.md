@@ -19,7 +19,7 @@ The testing was performed on a demo website, focusing on key features like navig
 ## How to View the Report
 
 1. Open the HTML file in a web browser to explore the Jira report.
-2. You can also access the report via [GitHub Pages](< >) for an online version.
+2. You can also access the report via [GitHub Pages](<https://github.com/mamdemariam/Jira_Report>) for an online version.
 
 ## Skills Demonstrated
 
